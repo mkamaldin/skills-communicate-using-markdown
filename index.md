@@ -7,3 +7,8 @@ This is the common text.
 ## Adding an Image.
 
 ![Image of a demon cat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
